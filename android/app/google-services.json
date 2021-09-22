@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "363628582012",
+    "firebase_url": "https://todotrain-default-rtdb.firebaseio.com",
+    "project_id": "todotrain",
+    "storage_bucket": "todotrain.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363628582012:android:8dac304e2764041007a5f9",
+        "android_client_info": {
+          "package_name": "com.example.todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363628582012-sr1j66hbc6fibggtav2nuovhenip3fme.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgiG9eo8G75NyDz-Ij0vZ4IgrkUXHHcJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363628582012-sr1j66hbc6fibggtav2nuovhenip3fme.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
